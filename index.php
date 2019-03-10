@@ -1,2 +1,2 @@
 <?php
-Hello Working Fast User 
+echo "Hello user"; 
